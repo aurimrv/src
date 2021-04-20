@@ -1,0 +1,9 @@
+
+- Para cada exercício é fornecido um arquivo ‘.py’, já com a descrição do problema;
+- O exercício 0 é um exemplo já implementado;
+- Cada arquivo já incluí a declaração da função e os testes automáticos a serem executado, basta fazer sua implementação do corpo da função no local indicado.
+- Ao executar o programa, os testes automáticos serão executados. Caso o resultado do teste automatizado não seja claro, olhe no arquivo pdf a descrição
+- Não mude o nome da função (caso contrário os testes automatizados não funcionarão, ou teremos que mudá-los também para funcionar)
+- Não mude o nome do arquivo, para facilitar a correção
+- Faça a submissão de um único arquivo zip contendo todos os arquivos .py
+	
